@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #222;
+
+    a {
+        color: #222;
+    }
+
+    .social {
+        font-size: 2rem;
+    }
+}

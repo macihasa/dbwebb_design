@@ -1,0 +1,18 @@
+p,
+ul {
+    font-family: $primary-font-content;
+    line-height: 1.4;
+    margin-bottom: 1.96rem;
+    margin: 1.96rem auto;
+    letter-spacing: 0.5px;
+    color: #333;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: $primary-font-headings;
+    margin-bottom: 0.6em;
+    font-weight: bold;
+}
